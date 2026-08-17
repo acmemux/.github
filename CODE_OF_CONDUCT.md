@@ -13,7 +13,7 @@ acceptable.
 ## Enforcement
 
 Report conduct concerns privately to
-[sgurden@certleap.net](mailto:sgurden@certleap.net?subject=AcmeMux%20conduct%20report).
+[contact@certleap.net](mailto:contact@certleap.net?subject=AcmeMux%20conduct%20report).
 Reports will be reviewed confidentially to the extent practical. Maintainers
 may edit or remove content, issue a warning, limit participation, or ban an
 account when needed to protect the community.

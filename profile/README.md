@@ -23,6 +23,8 @@ release exists yet. AcmeMux does not currently claim signed provenance.
 - [Contributing guide](https://github.com/acmemux/.github/blob/main/CONTRIBUTING.md)
 - [Roadmap ideas and voting](https://github.com/acmemux/AcmeMux/discussions/categories/ideas)
 - [Sponsorship policy](https://acmemux.com/sponsor/)
+- [General contact](mailto:contact@certleap.net?subject=AcmeMux%20inquiry)
+- [Sponsorship inquiries](mailto:sponsorship@certleap.net?subject=AcmeMux%20sponsorship)
 
 ## Built in public, operated on itself
 

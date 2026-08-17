@@ -2,12 +2,11 @@
 
 Do not disclose a suspected vulnerability in a public issue or discussion.
 
-Before the application repository enables GitHub private vulnerability
-reporting, send a concise report to
-[sgurden@certleap.net](mailto:sgurden@certleap.net?subject=Private%20AcmeMux%20security%20report).
+Use [GitHub private vulnerability reporting](https://github.com/acmemux/AcmeMux/security/advisories/new).
 Include the affected version or commit, impact, prerequisites, reproduction
 steps, and any suggested mitigation. Do not include live credentials, private
-keys, or data belonging to another party.
+keys, or data belonging to another party, and do not send security reports to
+the project's general contact or sponsorship addresses.
 
 The project will acknowledge a credible report as maintainer capacity permits,
 coordinate validation and remediation privately, and publish appropriate
