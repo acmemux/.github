@@ -1,0 +1,53 @@
+name: Bug report
+description: Report a reproducible AcmeMux defect without disclosing secrets.
+title: "Bug: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: Do not include credentials, private keys, session material, or unredacted native configuration.
+  - type: input
+    id: version
+    attributes:
+      label: AcmeMux version or commit
+    validations:
+      required: true
+  - type: input
+    id: lego
+    attributes:
+      label: Exact lego version and identity reported by AcmeMux
+    validations:
+      required: true
+  - type: input
+    id: platform
+    attributes:
+      label: Operating system and architecture
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Observed behavior
+      description: Include the reported state and reason code.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproduction steps
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety check
+      options:
+        - label: I removed credentials, private keys, tokens, tenant identifiers, and sensitive configuration.
+          required: true

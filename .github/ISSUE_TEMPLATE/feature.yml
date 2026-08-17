@@ -1,0 +1,43 @@
+name: Feature proposal
+description: Propose a roadmap item after searching existing Ideas discussions.
+title: "Feature: "
+labels:
+  - feature
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Operator problem
+      description: Describe the problem and who experiences it, not only the desired implementation.
+    validations:
+      required: true
+  - type: textarea
+    id: workaround
+    attributes:
+      label: Current workaround
+    validations:
+      required: true
+  - type: textarea
+    id: boundary
+    attributes:
+      label: Security and ownership boundary
+      description: Explain credentials, native files, processes, network access, or trust relationships affected.
+    validations:
+      required: true
+  - type: textarea
+    id: success
+    attributes:
+      label: Verifiable success
+      description: State what evidence would prove the feature works safely.
+    validations:
+      required: true
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Interest
+      options:
+        - Community proposal
+        - Interested in sponsorship
+        - Organization seeking scoped sponsorship
+    validations:
+      required: true

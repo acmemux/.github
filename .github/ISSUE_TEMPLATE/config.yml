@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Roadmap ideas and voting
+    url: https://github.com/acmemux/.github/discussions/categories/ideas
+    about: Search, propose, and vote on roadmap ideas.
+  - name: Security report
+    url: https://acmemux.com/security/
+    about: Report suspected vulnerabilities privately.
