@@ -1,8 +1,8 @@
 # Contributing to AcmeMux
 
 Thank you for helping improve AcmeMux. The project is at MVP stage. Source is
-public while the first tagged release and signed release artifacts are being
-qualified.
+public, but no tagged release exists yet and AcmeMux does not currently claim
+signed provenance.
 
 ## Useful contributions now
 
@@ -11,7 +11,7 @@ qualified.
 - Improve public documentation or report a broken guide.
 - Provide reproducible qualification evidence for a distribution or platform.
 - Report a bug with redacted logs and exact runtime information.
-- Sponsor an accepted roadmap item.
+- Support maintenance and qualified roadmap work without purchasing priority.
 
 Do not post passwords, session cookies, DNS credentials, ACME account keys,
 certificate private keys, tenant identifiers, or unredacted configuration.
