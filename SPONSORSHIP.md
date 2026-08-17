@@ -1,5 +1,9 @@
 # Sponsor AcmeMux
 
+The public sponsorship page is
+[acmemux.com/sponsor](https://acmemux.com/sponsor/). This repository copy keeps
+the policy beside GitHub proposals and community health files.
+
 AcmeMux is independent open-source work. Sponsorship helps pay for release
 engineering, security review, compatibility qualification, provider upkeep,
 documentation, infrastructure, and maintainer time.
