@@ -18,6 +18,13 @@ Self-service GitHub Sponsors payments are not enabled yet. Organizations that
 want to fund the project now can request a scoped sponsorship or invoice by
 emailing [sgurden@certleap.net](mailto:sgurden@certleap.net?subject=AcmeMux%20sponsorship).
 
+For an already accepted roadmap proposal, a contribution of at least $500
+guarantees placement in the sponsor-funded queue ahead of community-voted and
+maintainer-selected feature work. It does not guarantee that $500 funds the
+entire implementation or establish a release date by itself. Scope, remaining
+funding, milestones, acceptance criteria, and delivery terms are agreed in
+writing before payment. Unsolicited payment creates no delivery obligation.
+
 ## What feature sponsorship guarantees
 
 After written scope, acceptance criteria, funding, and any delivery terms are

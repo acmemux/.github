@@ -11,6 +11,7 @@ source-built systemd service on Debian 13 amd64. The source repository is being
 prepared for its first public tagged release.
 
 - [Product website and technical guides](https://acmemux.com)
+- [Live dogfood certificate status](https://acmemux.com/certificate-status/)
 - [Public roadmap](https://github.com/acmemux/.github/blob/main/ROADMAP.md)
 - [Contributing guide](https://github.com/acmemux/.github/blob/main/CONTRIBUTING.md)
 - [Roadmap ideas and voting](https://github.com/acmemux/.github/discussions/categories/ideas)

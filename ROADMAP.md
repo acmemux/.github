@@ -73,5 +73,5 @@ order before changing its status to Planned.
 ## Fund a roadmap item
 
 Read the [sponsorship policy](SPONSORSHIP.md). Funding an already accepted item
-is the fastest path to priority. New ideas require feasibility review before a
-feature sponsorship is accepted.
+at the published threshold guarantees placement in the sponsor-funded queue.
+New ideas require feasibility review before a feature sponsorship is accepted.
