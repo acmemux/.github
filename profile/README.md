@@ -12,9 +12,9 @@ certificates across an operator's environment. The narrow MVP is the trusted
 foundation for inventory, policy, alerts, integrations, identity, audit, and
 recovery rather than the end of the product.
 
-The project is at MVP stage. The first qualified deployment target is a
-source-built systemd service on Debian 13 amd64. Source is public while the
-first tagged release and signed release artifacts are being qualified.
+AcmeMux is pre-release. The current qualified deployment target is a
+source-built systemd service on Debian 13 amd64. Source is public, but no tagged
+release exists yet. AcmeMux does not currently claim signed provenance.
 
 - [Product website and technical guides](https://acmemux.com)
 - [Product source and issue tracker](https://github.com/acmemux/AcmeMux)
@@ -27,23 +27,18 @@ first tagged release and signed release artifacts are being qualified.
 ## Built in public, operated on itself
 
 The production website uses an internal AcmeMux instance, upstream lego,
-Let's Encrypt DNS-01, and a narrowly scoped Route 53 identity to evaluate,
-issue, and deploy its own TLS certificate. Its deliberately accelerated
-dogfood setting targets a visible replacement about every 72 to 96 hours while
-leaving margin below Let's Encrypt's exact-set rate limit. The live website
-publishes the certificate dates, fingerprint, and expected next replacement.
+Let's Encrypt DNS-01, and a narrowly scoped Route 53 identity. AcmeMux schedules
+and evaluates the native workspace, upstream lego performs ACME issuance, and
+separate least-privilege automation validates and activates the certificate
+served by the website. Its deliberately accelerated dogfood setting targets a
+visible replacement about every 72 to 96 hours while leaving margin below
+Let's Encrypt's exact-set rate limit. The live website publishes the
+certificate dates, fingerprint, and expected next replacement.
 
 ## How work is prioritized
 
-Urgent security and release-integrity work always comes first. For accepted
-feature work, the order is:
-
-1. accepted features selected by $500-per-month fast-track partners with a
-   12-month commitment;
-2. accepted roadmap items ranked by community votes; and
-3. maintainer-selected work.
-
-Money does not buy a security exception, an unreviewed merge, or control of the
-project. Fast-track selection applies only to maintainer-accepted roadmap
-features. Guaranteed support is a separate enterprise agreement, not a benefit
-of ordinary sponsorship.
+Urgent security and release-integrity work comes first. Other accepted work is
+selected by the maintainer using operator value, community evidence, security,
+scope, and verifiability. Sponsorship supports maintenance and qualified
+roadmap work; it does not provide an SLA, private support, implementation
+priority, guaranteed delivery, or an exception from review.
