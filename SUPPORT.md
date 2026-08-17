@@ -3,10 +3,10 @@
 AcmeMux is community-supported MVP software and has no guaranteed free support
 response time.
 
-- Use [Discussions](https://github.com/acmemux/.github/discussions) for setup
+- Use [Discussions](https://github.com/acmemux/AcmeMux/discussions) for setup
   questions, workflows, and roadmap ideas.
-- Use the application issue tracker for reproducible defects after the source
-  repository becomes public.
+- Use the [application issue tracker](https://github.com/acmemux/AcmeMux/issues)
+  for reproducible defects.
 - Use the private process in [SECURITY.md](SECURITY.md) for vulnerabilities.
 - Use [sponsorship](SPONSORSHIP.md) to discuss funded roadmap or organizational
   support.

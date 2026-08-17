@@ -1,8 +1,8 @@
 # AcmeMux roadmap
 
 The canonical public product direction is
-[acmemux.com/roadmap](https://acmemux.com/roadmap/). This GitHub mirror keeps
-proposal status close to discussions and contributions.
+[acmemux.com/roadmap](https://acmemux.com/roadmap/). This GitHub mirror gives
+contributors the same horizons and status vocabulary used by the website.
 
 ## Product destination
 
@@ -35,7 +35,8 @@ Security incidents, critical defects, dependency emergencies, and release
 integrity work can preempt every feature queue. After that, accepted feature
 work is ordered as follows:
 
-1. Sponsor-funded commitments with written scope and acceptance criteria.
+1. Features selected by $500-per-month fast-track partners with a 12-month
+   commitment, after maintainer acceptance.
 2. Accepted community proposals ranked by unique positive reactions in the
    Ideas discussion category.
 3. Maintainer-selected work required to advance the product direction.
@@ -88,7 +89,7 @@ Funding never bypasses architecture, security, licensing, testing, or review.
 
 ## Vote or fund work
 
-Search the [Ideas discussions](https://github.com/acmemux/.github/discussions/categories/ideas)
+Search the [Ideas discussions](https://github.com/acmemux/AcmeMux/discussions/categories/ideas)
 before opening a proposal. Add one positive reaction to the proposal's first
 post to vote. Comments should provide use cases, constraints, and evidence.
 

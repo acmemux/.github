@@ -13,15 +13,15 @@ foundation for inventory, policy, alerts, integrations, identity, audit, and
 recovery rather than the end of the product.
 
 The project is at MVP stage. The first qualified deployment target is a
-source-built systemd service on Debian 13 amd64. The source repository is being
-prepared for its first public tagged release.
+source-built systemd service on Debian 13 amd64. Source is public while the
+first tagged release and signed release artifacts are being qualified.
 
 - [Product website and technical guides](https://acmemux.com)
 - [Live dogfood certificate status](https://acmemux.com/certificate-status/)
 - [Product vision and roadmap](https://acmemux.com/roadmap/)
 - [GitHub roadmap mirror](https://github.com/acmemux/.github/blob/main/ROADMAP.md)
 - [Contributing guide](https://github.com/acmemux/.github/blob/main/CONTRIBUTING.md)
-- [Roadmap ideas and voting](https://github.com/acmemux/.github/discussions/categories/ideas)
+- [Roadmap ideas and voting](https://github.com/acmemux/AcmeMux/discussions/categories/ideas)
 - [Sponsorship policy](https://acmemux.com/sponsor/)
 
 ## Built in public, operated on itself
@@ -38,10 +38,12 @@ publishes the certificate dates, fingerprint, and expected next replacement.
 Urgent security and release-integrity work always comes first. For accepted
 feature work, the order is:
 
-1. written sponsor-funded commitments;
+1. accepted features selected by $500-per-month fast-track partners with a
+   12-month commitment;
 2. accepted roadmap items ranked by community votes; and
 3. maintainer-selected work.
 
 Money does not buy a security exception, an unreviewed merge, or control of the
-project. A feature sponsorship guarantees priority only after feasibility,
-scope, acceptance criteria, and funding are agreed in writing.
+project. Fast-track selection applies only to maintainer-accepted roadmap
+features. Guaranteed support is a separate enterprise agreement, not a benefit
+of ordinary sponsorship.
