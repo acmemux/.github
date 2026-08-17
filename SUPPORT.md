@@ -8,8 +8,8 @@ response time.
 - Use the [application issue tracker](https://github.com/acmemux/AcmeMux/issues)
   for reproducible defects.
 - Use the private process in [SECURITY.md](SECURITY.md) for vulnerabilities.
-- Use [sponsorship](SPONSORSHIP.md) to discuss funded roadmap or organizational
-  support.
+- Use the [sponsorship page](https://acmemux.com/sponsor/) to review recognition,
+  company, and fast-track tiers. Sponsorship is not a support contract.
 
 Before asking for help, remove secrets and collect the AcmeMux version, exact
 lego identity, operating system, workspace state, reported reason code, and the

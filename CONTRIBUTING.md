@@ -19,10 +19,11 @@ certificate private keys, tenant identifiers, or unredacted configuration.
 ## Proposing a feature
 
 Search [Ideas](https://github.com/acmemux/AcmeMux/discussions/categories/ideas)
-and the [roadmap](ROADMAP.md) first. A strong proposal explains the operator
-problem, who experiences it, the current workaround, the security boundary it
-touches, and how success can be verified. Provider requests should link to the
-upstream lego provider documentation and name the required credential modes.
+and the [product roadmap](https://acmemux.com/roadmap/) first. A strong proposal
+explains the operator problem, who experiences it, the current workaround, the
+security boundary it touches, and how success can be verified. Provider
+requests should link to the upstream lego provider documentation and name the
+required credential modes.
 
 ## Code contributions
 
